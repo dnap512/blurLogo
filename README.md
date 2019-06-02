@@ -10,7 +10,7 @@ Puma  RedBull  Sprite  Starbucks
 
 Weights file link : https://nas.gclab.cs.kookmin.ac.kr:5001/sharing/tizrp8gfx
 
-Weights file path : model_data/yolo_logos.h5
+Weights file path : model_data/yolo_logo.h5
 
 ---
 ## Quick start
